@@ -1,0 +1,92 @@
+/*Página de estilos para el ejercicio Queen del examen de marcas, primera evaluación.
+    Iñaki García
+*/
+
+body {
+    background-color:aliceblue;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#grupo {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-width: 2px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    padding: 5px;
+    float: left;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 1.25em;
+    font-style: italic;
+}
+
+em {
+    color: blueviolet;
+    font-size: 1.2em;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 1.5em;
+    text-transform: capitalize;
+}
+
+#caja1 {
+    box-align: center;
+    box-sizing: content-box;
+    border-width : 2px;
+    border-style: solid;
+    border-color: purple;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/*#caja1 {
+    box-sizing: content;
+    box-align: center;
+    border: 2px;
+    border-style: solid;
+    border-color: purple;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+*/
+
+
+#bohemian {
+    float: left;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: whitesmoke;
+}
+
+#champions {
+    float: left;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: whitesmoke;
+}
+

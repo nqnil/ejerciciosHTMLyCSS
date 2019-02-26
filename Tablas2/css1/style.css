@@ -1,0 +1,13 @@
+table {
+    /*table-layout: fixed;
+    width: 100%;*/
+    border-collapse: collapse;
+}
+
+table.rojo {
+    border: 2px solid red;
+}
+
+table.verde {
+    border: 2px solid green;
+}
